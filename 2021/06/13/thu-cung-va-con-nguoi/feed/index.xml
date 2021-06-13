@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Thú Cưng và Con Người	</title>
+	<atom:link href="http://localhost/myprojects/wordpress/2021/06/13/thu-cung-va-con-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phamtrongduc.github.io/bestweb/2021/06/13/thu-cung-va-con-nguoi/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 13 Jun 2021 09:29:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: user1		</title>
+		<link>https://phamtrongduc.github.io/bestweb/2021/06/13/thu-cung-va-con-nguoi/#comment-15</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2021 09:29:05 +0000</pubDate>
+		<guid isPermaLink="false">https://phamtrongduc.github.io/bestweb/?p=150#comment-15</guid>
+
+					<description><![CDATA[Cảm ơn bạn nhiều nhaAĂĂĂ]]></description>
+			<content:encoded><![CDATA[<p>Cảm ơn bạn nhiều nhaAĂĂĂ</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: Chu Nhoc		</title>
+		<link>https://phamtrongduc.github.io/bestweb/2021/06/13/thu-cung-va-con-nguoi/#comment-13</link>
+
+		<dc:creator><![CDATA[Chu Nhoc]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2021 09:27:30 +0000</pubDate>
+		<guid isPermaLink="false">https://phamtrongduc.github.io/bestweb/?p=150#comment-13</guid>
+
+					<description><![CDATA[Web rất đẹp ạAĂĂĂĂ]]></description>
+			<content:encoded><![CDATA[<p>Web rất đẹp ạAĂĂĂĂ</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
