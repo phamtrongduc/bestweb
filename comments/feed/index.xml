@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
+	Bình luận cho DUCWeb	</title>
 	<atom:link href="http://localhost/myprojects/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamtrongduc.github.io/bestweb</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Những Điều Tuyệt Vời Trong Cuộc Sống</description>
 	<lastBuildDate>Sun, 13 Jun 2021 09:29:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

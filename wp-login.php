@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; My WordPress &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; DUCWeb &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://phamtrongduc.github.io/bestweb/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://phamtrongduc.github.io/bestweb/wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://phamtrongduc.github.io/bestweb/wp-content/uploads/2021/06/sdfdsfdsf.png" sizes="32x32">
+<link rel="icon" href="https://phamtrongduc.github.io/bestweb/wp-content/uploads/2021/06/sdfdsfdsf.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://phamtrongduc.github.io/bestweb/wp-content/uploads/2021/06/sdfdsfdsf.png">
+<meta name="msapplication-TileImage" content="https://phamtrongduc.github.io/bestweb/wp-content/uploads/2021/06/sdfdsfdsf.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -51,7 +55,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://phamtrongduc.github.io/bestweb/">&larr; Quay lại My WordPress</a>		</p>
+			<a href="https://phamtrongduc.github.io/bestweb/">&larr; Quay lại DUCWeb</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://phamtrongduc.github.io/bestweb/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://phamtrongduc.github.io/bestweb/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
