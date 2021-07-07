@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho DUCWeb	</title>
+	Bình luận cho DUCWED	</title>
 	<atom:link href="http://localhost/myprojects/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamtrongduc.github.io/bestweb</link>
-	<description>HÃY ĐẾN VỚI CHÚNG</description>
+	<description>MANG ĐIỀU TỐT ĐẸP NHẤT ĐẾN VỚI GIA ĐÌNH BẠN!</description>
 	<lastBuildDate>Wed, 07 Jul 2021 03:34:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
